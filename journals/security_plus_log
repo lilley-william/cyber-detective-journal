@@ -1,0 +1,274 @@
+# Cyber Detective Journal
+
+## About This Journal
+This is my master journal tracking my journey into cybersecurity, counterintelligence, and digital forensics.  
+Daily journals, questions, and results are stored in their respective folders.  
+This file provides a high-level summary, daily progress tracking, weekly reflections, and personal milestones.
+
+---
+
+## Daily Progress Tracker (Days 1–30)
+
+### Day 1 – CIA Triad, AAA, Threat Actors
+- Journal: [X]  
+- Questions: [X]  
+- Results: [8/10]  
+- Notes:  Watched the following videos:
+		- SY0-701 introduction video, security controls, the CIA triad, non-repudiation, IAAA, gap analysis, zero trust, and threat actors.
+	  I took my first practice test and scored 8/10, but I went through the questions again, and realized my error, which is reflected in my security_plus folder for day 1 questions and results
+
+### Day 2 – Networking Fundamentals
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 3 – Social Engineering & Attack Types
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 4 – Malware & Indicators
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 5 – Wireless/Mobile Security
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 6 – Application & Web Attacks
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 7 – DoS, DNS, and On-path Attacks
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+**Week 1 Final Exam**
+- Score: __ / __  
+- Notes:  
+
+---
+
+### Day 8 – Cryptography Basics
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 9 – PKI & Certificates
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 10 – Authentication Protocols
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 11 – Secure Network Design
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 12 – Firewalls, IDS/IPS
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 13 – Risk Management Frameworks
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 14 – Incident Response Basics
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+**Week 2 Final Exam**
+- Score: __ / __  
+- Notes:  
+
+---
+
+### Day 15 – Advanced Authentication & Access Models
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 16 – Wireless Security Protocols
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 17 – Mobile Device Security
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 18 – Vulnerability Scanning
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 19 – Penetration Testing
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 20 – Hardening Techniques
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 21 – Patch & Change Management
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+**Week 3 Final Exam**
+- Score: __ / __  
+- Notes:  
+
+---
+
+### Day 22 – Cloud Models
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 23 – Cloud Threats & Controls
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 24 – Virtualization Security
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 25 – Secure Protocols (Deep Dive)
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 26 – Emerging Tech (Blockchain, IoT, AI/ML Security)
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 27 – Data Security & Privacy
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 28 – Security Assessments
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 29 – Governance & Frameworks
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+### Day 30 – Final Review & Cram
+- Journal: [ ]  
+- Questions: [ ]  
+- Results: [ ]  
+- Notes:  
+
+**Week 4 Final Exam**
+- Score: __ / __  
+- Notes:  
+
+**Final 90-Question Cumulative Exam**
+- Score: __ / __  
+- Notes:  
+
+---
+
+## Weekly Reflections
+### Week 1 (Days 1–7)
+- Strengths:  
+- Weaknesses:  
+- Surprising takeaway:  
+- Average exam score:  
+- Real-world analogy/example that stuck:  
+
+### Week 2 (Days 8–14)
+- Strengths:  
+- Weaknesses:  
+- Notes:  
+
+### Week 3 (Days 15–21)
+- Strengths:  
+- Weaknesses:  
+- Notes:  
+
+### Week 4 (Days 22–30)
+- Strengths:  
+- Weaknesses:  
+- Notes:  
+
+---
+
+## Key Milestones
+- [ ] Completed Week 1  
+- [ ] Completed Week 2  
+- [ ] Completed Week 3  
+- [ ] Completed Week 4  
+- [ ] 90-question final cumulative exam  
+- [ ] Day 30 condensed cram review  
+- [ ] Scheduled Security+ exam date  
+- [ ] Passed Security+ 🎉  
+
+---
+
+## Resources Used
+- Professor Messer’s Security+ (SY0-701) Training Course  
+- Professor Messer’s Study Groups (Q&A practice)  
+- Free Security+ practice tests  
+- GitHub repo (daily logs, questions, results)  
+- [Add any supplemental books/sites/tools here]
+
+---
+
+## Long-Term Reflections
+- Why cybersecurity feels like “detective work” to me:  
+- Which skills I’ve grown the most in:  
+- Where I want to specialize next (DFIR, SOC, Red/Blue Team, Counterintelligence, etc.):  
+
+---
+
